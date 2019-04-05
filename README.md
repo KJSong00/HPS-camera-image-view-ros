@@ -33,4 +33,4 @@ You can only test in 64 bit operating system
     and select the /hps3d_image topic to view image
 
 ### Test screen
-<img src="https://github.com/KJSong00/HPS-camera-image-view-ros/tree/master/img/test_screen.png">
+<img src="https://github.com/KJSong00/HPS-camera-image-view-ros/blob/master/img/test_screen.png">
