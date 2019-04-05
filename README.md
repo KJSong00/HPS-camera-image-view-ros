@@ -4,7 +4,7 @@ If you use this project, you can view image of HPS camera in ROS environment<br>
 You can only test in 64 bit operating system
 
 ### Notice
-After cloning this repostiory, please rename the directory to "hps_camera"(for preventing build failure)
+After cloning this repostiory, please rename the directory to "hps_camera"(for preventing build failure)<br>
 You can get the SDK of the camera in [here](https://github.com/SeeedDocument/Outsourcing/raw/master/101990386/Doc/HPS3D-SDK%20software%20and%20manual.zip)
 
 ### Pre-requirements
