@@ -3,6 +3,9 @@
 If you use this project, you can view image of HPS camera in ROS environment<br>
 You can only test in 64 bit operating system
 
+### Notice
+After cloning this repostiory, please rename the directory to "hps_camera"(for preventing build failure)
+
 ### Pre-requirements
 * ROS Kinetic
 
